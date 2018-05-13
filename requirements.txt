@@ -1,0 +1,9 @@
+gpxpy
+ipython
+matplotlib
+mplleaflet
+numpy
+pandas
+PyQt5
+scipy
+seaborn

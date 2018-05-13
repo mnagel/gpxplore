@@ -1,0 +1,9 @@
+__pycache__
+
+/.idea/
+/.venv/
+
+/icons/
+
+*.gitignore.py
+_map.html
