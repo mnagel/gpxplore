@@ -7,7 +7,7 @@ Browse a library of GPX files.
 Screenshot
 ==========
 
-![gpxplore screenshot](doc/gxplore.png?raw=true "gpxplore screenshot")
+![gpxplore screenshot](doc/gpxplore.png?raw=true "gpxplore screenshot")
 
 
 Features
